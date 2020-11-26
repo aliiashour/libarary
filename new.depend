@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1606414631 source:c:\users\ali\onedrive\desktop\new\new\user.cpp
+	"User.h"
+
+1606414550 c:\users\ali\onedrive\desktop\new\new\user.h
+	<string.h>
+	<iostream>
+
+1606414777 source:c:\users\ali\onedrive\desktop\new\new\book.cpp
+	<iostream>
+	<string>
+	"book.h"
+
+1606414841 c:\users\ali\onedrive\desktop\new\new\book.h
+	<string>
+	"user.h"
+
+1606414818 source:c:\users\ali\onedrive\desktop\new\new\main.cpp
+	<iostream>
+	<string>
+	"user.h"
+	"book.h"
+
